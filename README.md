@@ -1,5 +1,5 @@
 # Solana dApp development
-
+<img src='https://www.soldev.app/logo-light.svg' width='50%' />
 Cource link: https://www.soldev.app/course
 
 ## Modules
